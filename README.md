@@ -1,16 +1,13 @@
-### Hi there 👋
+# Andreas MOUZONG D.
 
-<!--
-**mouzong/mouzong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello You 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Spring Boot with React JS
+- 🌱 I’m currently learning ... Flutter
+- 👯 I’m looking to collaborate on ... NodeJS projects
+- 🤔 I’m looking for help with ... DevOps and AWS
+- 💬 Ask me about ... Any thing you would like to know
+- 📫 How to reach me: ... t.me/andreasmouzong
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I'm passionate

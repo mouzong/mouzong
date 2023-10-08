@@ -3,7 +3,7 @@
 ### Hello You 👋
 
 
-- 🔭 I’m currently working on ... Building CI/CD Pipelines with Jenkins, Ansible, Terraform, Docker, Kubernetes, Prometheus, and Grafana on AWS to deploy Spring Boot applications
+- 🔭 I’m currently working on ... Building CI/CD Pipelines with Jenkins, Ansible, Terraform, Docker, Kubernetes, Prometheus, and Grafana on AWS to deploy Spring Boot and Python FastAPI APIs
 - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ... DevOps projects and SpringBoot microservice API development 
 - 🤔 I’m looking to help and learn more about... DevOps with AWS, AZURE, and GCP

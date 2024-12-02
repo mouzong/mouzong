@@ -1,5 +1,6 @@
 # I'm Andreas M.D.👋
 
+[![Andreas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mouzong)](https://github.com/mouzong/github-readme-stats)
 
 - 🔭 I’m currently working on ... Building CI/CD Pipelines with Jenkins, Ansible, Terraform, Docker, Kubernetes, Prometheus, and Grafana on AWS to deploy Spring Boot and Python FastAPI APIs
 - 🌱 I’m currently learning ... 

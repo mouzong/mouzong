@@ -79,14 +79,19 @@ I design and operate **modern infrastructure platforms** that help teams move fa
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouzong&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouzong&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=mouzong&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouzong&layout=compact&langs_count=15&theme=tokyonight&count_private=true&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouzong&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
+
 
 ### 🌍 Connect with Me
 
